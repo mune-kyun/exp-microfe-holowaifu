@@ -10,15 +10,15 @@ Simple microfrontend site to shows information of some Hololive Member.
 
 #### Landing Page:
 
-![image info](./demo/landing-page-VUE.PNG)
+![image info](./demo/landing-page-VUE.png)
 
 #### Home:
 
-![image info](./demo/talent-page-SVELTE.PNG)
+![image info](./demo/talent-page-SVELTE.png)
 
 #### Detail Page:
 
-![image info](./demo/detail-page-REACT.PNG)
+![image info](./demo/detail-page-REACT.png)
 
 ## Installation and Setup Instructions
 
